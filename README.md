@@ -1,1 +1,2 @@
-Authors: Chris Ndinda
+Authors: Chris
+       : Ndinda
